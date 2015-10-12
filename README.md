@@ -1,1 +1,2 @@
 # GenieGITBash
+Hello Genie!!
